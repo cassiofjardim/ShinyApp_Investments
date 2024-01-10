@@ -527,7 +527,8 @@ border-radius: 10px;
                                     label = "Notifications",
                                     width = 150,
                                     right = TRUE
-                                  )
+                                  ),
+                                  tags$b('Advanced chart')
 
                                 ),
                                 div(
@@ -557,7 +558,8 @@ border-radius: 10px;
                                     label = "Notifications",
                                     width = 150,
                                     right = TRUE
-                                  )
+                                  ),
+                                  tags$b('Advanced chart')
 
                                 ),
                                 div(
@@ -587,7 +589,8 @@ border-radius: 10px;
                                     label = "Notifications",
                                     width = 150,
                                     right = TRUE
-                                  )
+                                  ),
+                                  tags$b('Advanced chart')
 
                                 ),
                                 div(
@@ -617,7 +620,8 @@ border-radius: 10px;
                                     label = "Notifications",
                                     width = 150,
                                     right = TRUE
-                                  )
+                                  ),
+                                  tags$b('Advanced chart')
 
                                 )
 
